@@ -45,4 +45,4 @@ INSERT INTO character_books(character_id, book_id) VALUES
 (5,6),
 (6,4),
 (7,6),
-(8,6),
+(8,6);
