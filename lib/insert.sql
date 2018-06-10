@@ -27,3 +27,22 @@ INSERT INTO characters(name, motto,species, author_id,series_id) VALUES
 ("Helga","The fjords in the springtime are beautiful.","Norwegian",2,2),
 ("Murray","GRONK!? GRONK.","Giant",2,2),
 ("Jar-jar","Why do I exist?","Gungan",2,2);
+
+
+INSERT INTO character_books(character_id, book_id) VALUES
+(1,1),
+(2,1),
+(3,1),
+(4,1),
+(1,2),
+(2,2),
+(1,3),
+(2,3),
+(5,5),
+(6,5),
+(5,6),
+(6,6),
+(5,6),
+(6,4),
+(7,6),
+(8,6),
