@@ -18,7 +18,7 @@ INSERT INTO books(title, year, series_id) VALUES
 ("Illiemsturgen!", 1966,2),
 ("The Phantom Menace",1967,2);
 
-INSERT INTO characters(name, motto,species, author_id,series_id) VALUES 
+INSERT INTO characters(name, motto,species, author_id,series_id) VALUES
 ("Frodo Baggins", "Why Me?","Hobbit",1,1),
 ("Bilbo Baggins", "What ring? Never saw it.","Hobbit",1,1),
 ("Samwise Gamge", "Frodo is the coolest.", "Hobbit",1,1),
