@@ -6,8 +6,8 @@ CREATE TABLE series (
 );
 
 CREATE TABLE sub_gebres (
-  id INTEGER PRIMARY KEY, 
-  name TEXT 
+  id INTEGER PRIMARY KEY,
+  name TEXT
 );
 
 CREATE TABLE authors (
